@@ -94,7 +94,7 @@ return array(
 	|
 	*/
 
-	'cookie' => 'iafront_session',
+	'cookie' => 'hbfront_session',
 
 	/*
 	|--------------------------------------------------------------------------
